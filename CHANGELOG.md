@@ -1,3 +1,4 @@
+* `20/05/28` [add] RSAUtil.
 * `20/05/28` [fix] IntentUtils#getInstallAppIntent file exist wrong. Publish v1.29.0.
 * `20/05/23` [fix] BusUtils#postSticky times not right. Publish v1.28.6.
 * `20/05/22` [add] IntentUtils#getInstallAppIntent support Uri param.
